@@ -27,3 +27,6 @@ Requirements :
 2. Flask
 
 How to run :
+# python app.py
+
+Copy the url from console and run on browser.
